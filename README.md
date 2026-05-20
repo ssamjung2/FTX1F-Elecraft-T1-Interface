@@ -1,6 +1,9 @@
 # Yaesu FTX-1F → Elecraft T1 ATU Interface
+*by KW9D*
 
 An Arduino Pro Micro sketch that reads the 4-bit digital BAND DATA output from the Yaesu FTX-1F TUNER/LINEAR connector and automatically updates the Elecraft T1 ATU with the correct band info — eliminating the need for the expensive official Elecraft interface cable.
+
+I built this for QRP POTA operations so I can use the T1 for HF activity as part of my FTX-1F field setup.
 
 ---
 
